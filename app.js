@@ -6,4 +6,4 @@ const user_obj   = require('./user');
 logger_obj.details('From app');
 
 // Calling user module method. 
-user_obj('Muhammad Hasan');
+user_obj('Muhammad Hasan'); 
